@@ -5,8 +5,8 @@
 
 - 🧮 Holding a bachelor's degree in **Accounting**
 - 🖥️ Currently pursuing a master's degree in **Computer Science**
-- 📷 Passionate about traveling and photography
-- 📫 Let's connect! **liang.sit@northeastern.edu** / **liang0721@gmail.com**
+- 📷 Passionate about **traveling** and **photography**
+- 📫 Let's connect! **liang.sit@northeastern.edu** or **liang0721@gmail.com**
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/siting-liang-7846541b7/)  
 
