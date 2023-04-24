@@ -1,12 +1,12 @@
 ### Hi there 👋, Hi there, I'm Siting 
 #### Passionate about coding: Exploring the world of computer science one line at a time.
-![Passionate about coding: Exploring the world of computer science one line at a time.]
+
 
 - 🖥️ Currently pursuing a master's degree in Computer Science
 - 📷 Passionate about traveling and photography
 - 📫 How to reach me **liang.sit@northeastern.edu**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/siting-liang-7846541b7/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/siting-liang-7846541b7/)  
 
 
 
