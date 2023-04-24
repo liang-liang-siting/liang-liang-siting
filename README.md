@@ -1,6 +1,6 @@
 ### Hi there 👋, Hi there, I'm Siting 
 #### Passionate about coding: Exploring the world of computer science one line at a time.
-![Passionate about coding: Exploring the world of computer science one line at a time.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Passionate about coding: Exploring the world of computer science one line at a time.]
 
 - 🖥️ Currently pursuing a master's degree in Computer Science
 - 📷 Passionate about traveling and photography
