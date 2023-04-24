@@ -1,6 +1,6 @@
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm Siting Liang</h1>
-<h3 align="center">Passionate about coding: Exploring the world of computer science one line at a time.</h3>
+### Hi there, I'm Siting 👋
+
+Passionate about coding: Exploring the world of computer science one line at a time.</h3>
 
 - 📫 How to reach me **liang.sit@northeastern.edu**
 
