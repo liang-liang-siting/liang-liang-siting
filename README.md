@@ -1,5 +1,5 @@
 ### Hi there, I'm Siting 👋
-#### Passionate about coding: Exploring the world of computer science one line at a time.
+#### An aspiring software developer with a passion for creating innovative solutions that make a difference in people's lives.
 
 ### 👩🏼‍💻About Me :
 
