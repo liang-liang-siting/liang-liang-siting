@@ -4,7 +4,7 @@
 ### 👩🏼‍💻About Me :
 
 - 🧮 Holding a bachelor's degree in **Accounting**
-- 🖥️ Currently pursuing a master's degree in **Computer Science**
+- 🖥️ Currently pursuing a master's degree in **Computer Science** and **Accounting**
 - 📷 Passionate about **traveling** and **photography**
 - 📫 Let's connect! **liang.sit@northeastern.edu** / **liang0721@gmail.com**
 
